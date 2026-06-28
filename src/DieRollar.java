@@ -6,7 +6,7 @@ public class DieRollar {
         Scanner in = new Scanner(System.in);
         Random gen = new Random();
 
-        String playAgain = "";
+        String playAgain;
 
         // Main loop to continue until the player want to quit
         do {
